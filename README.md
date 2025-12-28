@@ -7,7 +7,6 @@
 ![Pandas](https://img.shields.io/badge/Library-Pandas-blue.svg)
 ![Matplotlib](https://img.shields.io/badge/Library-Matplotlib-green.svg)
 ![Seaborn](https://img.shields.io/badge/Library-Seaborn-purple.svg)
-![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
 ---
