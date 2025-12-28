@@ -1,8 +1,6 @@
-# Data Preprocessing in Python.
+# Data Pre-Processing Using House Rent Project in Python.
 
-# Data Pre Processing using House Rent Project in Python.
-
-## House Rent Data Processing & Analysis:
+## House Rent Data Pre-Processing & Analysis:
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
